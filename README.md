@@ -1,4 +1,4 @@
-# Welcome to ACL 2021 Shared Task on Multimodal Language
+# Welcome to ACL 2021 Shared Task on Multimodal Language (Part of MAI-Workshop)
 This github will guide you through the process of participating in the grand-challenge for both CMU-MOSEI and MELD datasets. First, a quick recap of the datasets:
 
 CMU-MOSEI: CMU Multimodal Opinion Sentiment and Emotion Intensity (CMU-MOSEI) dataset is the largest dataset of multimodal sentiment analysis and emotion recognition to date. The dataset contains nearly 23,500 sentence utterance videos from more than 1000 online YouTube speakers across 250 topics. The dataset is gender balanced. All the sentences utterance are randomly chosen from various topics and monologue videos. The videos are transcribed and properly punctuated. We strongly suggest participants use CMU Multimodal SDK for working with CMU-MOSEI. The winning team of CMU-MOSEI track will receive a certificate of achievement and a gift of  at least $1,000 USD in value.
